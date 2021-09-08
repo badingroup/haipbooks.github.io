@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="haipbooks.ru" resolutions="1x" timestamp="1631141638377">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="haipbooks.ru" resolutions="1x" timestamp="1631142605837">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4278023173" ref="index"/>
+    <file name="index.css" crc="3867051876" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -12,10 +12,12 @@
     <file name="require.js" crc="4177726516" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="u104-4.png" crc="479303018" ref="index"/>
-    <file name="head.png" crc="64647672" seo="true" ref="index">
+    <file name="u104-4.png" crc="471979482" ref="index"/>
+    <file name="head.jpg" crc="49547908" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u230-4.png" crc="211282891" ref="index"/>
+    <file name="u234-4.png" crc="56939167" ref="index"/>
   </folder>
-  <file name="index.html" crc="3897289116" seo="true" mt="1631141598415" redirect="true"/>
+  <file name="index.html" crc="3376856" seo="true" mt="1631142590030" redirect="true"/>
 </manifest>
