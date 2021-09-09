@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="haipbooks.ru" resolutions="1x" timestamp="1631195090721">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="haipbooks.ru" resolutions="1x" timestamp="1631197777424">
   <folder name="assets">
     <file name="webpages-v6.2.0.mulib" crc="71936126" seo="true" mt="1463081312000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="311023477" ref="index"/>
+    <file name="index.css" crc="519897137" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -21,12 +21,22 @@
     <file name="u234-4.png" crc="56939167" ref="index"/>
     <file name="headtesx.png" crc="4151840309" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="u104.png" crc="471979482" ref="index"/>
     <file name="u104-r.png" crc="471979482" ref="index"/>
     <file name="u230.png" crc="211282891" ref="index"/>
     <file name="u230-r.png" crc="211282891" ref="index"/>
+    <file name="opti1-40.svg" crc="155810952" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="opti1-40_poster_.png" crc="3933391224" ref="index"/>
+    <file name="opti3-20.svg" crc="536445056" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="opti3-20_poster_.png" crc="492198405" ref="index"/>
   </folder>
-  <file name="index.html" crc="4032477582" seo="true" mt="1631194991594" redirect="true"/>
+  <file name="index.html" crc="4197130657" seo="true" mt="1631197772147" redirect="true"/>
 </manifest>

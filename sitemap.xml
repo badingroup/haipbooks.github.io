@@ -11,6 +11,12 @@
     <image:image>
       <image:loc>http://haipbooks.ru/images/headtesx.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://haipbooks.ru/images/opti1-40.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://haipbooks.ru/images/opti3-20.svg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://haipbooks.ru/assets/webpages-v6.2.0.mulib</loc>
