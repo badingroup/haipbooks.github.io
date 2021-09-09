@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="haipbooks.ru" resolutions="1x" timestamp="1631197777424">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="haipbooks.ru" resolutions="1x" timestamp="1631197907331">
   <folder name="assets">
     <file name="webpages-v6.2.0.mulib" crc="71936126" seo="true" mt="1463081312000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="519897137" ref="index"/>
+    <file name="index.css" crc="3906476993" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -38,5 +38,5 @@
     </file>
     <file name="opti3-20_poster_.png" crc="492198405" ref="index"/>
   </folder>
-  <file name="index.html" crc="4197130657" seo="true" mt="1631197772147" redirect="true"/>
+  <file name="index.html" crc="202403475" seo="true" mt="1631197441768" redirect="true"/>
 </manifest>
