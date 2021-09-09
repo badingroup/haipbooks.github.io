@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="haipbooks.ru" resolutions="1x" timestamp="1631203949380">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="haipbooks.ru" resolutions="1x" timestamp="1631204025625">
   <folder name="assets">
     <file name="webpages-v6.2.0.mulib" crc="71936126" seo="true" mt="1463081312000"/>
   </folder>
@@ -37,5 +37,5 @@
     </file>
     <file name="opti3-20_poster_.png" crc="492198405" ref="index"/>
   </folder>
-  <file name="index.html" crc="199551851" seo="true" mt="1631203933562" redirect="true"/>
+  <file name="index.html" crc="100476349" seo="true" mt="1631204011936" redirect="true"/>
 </manifest>
