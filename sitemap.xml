@@ -8,5 +8,14 @@
     <image:image>
       <image:loc>http://haipbooks.ru/images/head.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://haipbooks.ru/images/headtesx.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://haipbooks.ru/assets/webpages-v6.2.0.mulib</loc>
+    <lastmod>2016-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
