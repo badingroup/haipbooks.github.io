@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="haipbooks.ru" resolutions="1x" timestamp="1631288246492">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="haipbooks.ru" resolutions="1x" timestamp="1631288515952">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="195385674" ref="index"/>
+    <file name="index.css" crc="137510488" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="webpages-v6.2.0.mulib" crc="71936126" seo="true" mt="1463081312000"/>
@@ -33,6 +33,9 @@
     </file>
     <file name="opti3-20_poster_.png" crc="492198405" ref="index"/>
     <file name="u1620-4.png" crc="529302913" ref="index"/>
+    <file name="вставленное изображение 998x294.jpg" crc="363213398" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="34443921" seo="true" mt="1631288242238" redirect="true"/>
+  <file name="index.html" crc="520488104" seo="true" mt="1631288503262" redirect="true"/>
 </manifest>
